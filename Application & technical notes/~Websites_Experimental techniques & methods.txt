@@ -1,0 +1,79 @@
+%%%%%%% See also application notes in the folder \Nano\Instrument manuals & info\~Application & technical notes %%%%%%
+
+INTRO TO LUMINESCENCE
+
+http://www.princetoninstruments.com/spectroscopy/fl_lu.aspx
+http://www.fluorescence-foundation.org/archives.aspx
+http://ned.ipac.caltech.edu/level5/Sept03/Li/Li4.html
+
+
+INTRO TO COLLOIDAL QUANTUM DOTS
+
+http://www.sigmaaldrich.com/technical-documents/articles/material-matters/quantum-dots-an-emerging.html
+
+
+INTRO TO OPTICAL METHODS AND COMMON CONFIGURATIONS
+(see also application notes in the folder \Nano\Instrument manuals & info\~Application & technical notes)
+
+-> Optical alignement
+http://laser.physics.sunysb.edu/~simone/mini-project/
+https://www.youtube.com/watch?v=A6WzrxPIWNw
+https://www.youtube.com/watch?v=kQvhbJbDG0M
+
+-> Collimating & expanding a spatially filtered beam with shearing interferometry
+https://www.youtube.com/watch?v=xgSMa6_eYw8
+https://www.youtube.com/watch?v=Y1DnA6AA-RY
+
+-> Telecentric lens configuration
+http://en.wikipedia.org/wiki/Telecentric_lens
+http://www.opto-engineering.com/resources/telecentric-lenses-tutorial
+http://www.edmundoptics.de/technical-resources-center/imaging/what-is-telecentricity/
+http://fp.optics.arizona.edu/OT/Opti502/Class%20Notes/502-15%20Telecentric%20Systems.pdf
+http://www.schneiderkreuznach.com/fileadmin/user_upload/bu_photo_imaging/Foto-Objektive/know_how/optical_measurement_techniques_with_telecentric_lenses.pdf
+http://www.vision-systems.com/articles/print/volume-10/issue-1/worldwide-camera-lens-directory/using-telecentric-lenses-in-inspection-systems.html
+
+-> Conjugate planes
+http://www.microscopyu.com/articles/formulas/formulasconjugate.html
+
+-> 4f configuration for spatial filtering
+http://www.phywe.com/index.php/fuseaction/download/lrn_file/versuchsanleitungen/P2261200/e/P2261200.pdf
+
+-> 2f configuration to understand the Fourier Optics behind the spatial filtering
+http://www.phywe.com/index.php/fuseaction/download/lrn_file/versuchsanleitungen/P2261100/e/P2261100.pdf
+
+-> Optical design & imaging
+https://www.youtube.com/user/3BOPTI471B/videos
+http://www.opto-engineering.com/resources/coherence-artifacts-imaging-systems (coherence issues)
+
+-> Image processing
+http://www.tnw.tudelft.nl/fileadmin/Faculteit/TNW/Over_de_faculteit/Afdelingen/Imaging_Science_and_Technology/Research/Research_Groups/Quantitative_Imaging/Education/doc/FIP2_3.pdf
+
+-> Microscopy
+http://micro.magnet.fsu.edu/primer/
+http://microscopy.berkeley.edu/courses/TLM/condenser/kohler.html (Illumination alignment)
+http://www.microscopyu.com/articles/confocal/index.html
+
+-> Scanning (confocal) microscopy
+http://www.olympusmicro.com/primer/techniques/confocal/confocalscanningsystems.html
+
+-> Misc
+https://www.youtube.com/watch?v=wdNS2mGSTfI&list=PLDEA14401C2BE6275 (Edmund Optics playlist)
+
+
+INTRO TO OTHER EXPERIMENTAL METHODS, TECHNIQUES & INSTRUMENTATION
+
+-> Soldering
+https://www.youtube.com/watch?v=BLfXXRfRIzY
+http://blip.tv/make/learn-how-to-solder-skill-building-workshop-130343
+http://www.instructables.com/id/How-to-solder/?ALLSTEPS
+http://www.howcast.com/guides/930-How-to-Solder
+http://www.instructables.com/id/How-to-Solder-Videos%3A-Why-is-soldering-difficult-s/
+http://www.epemag.wimborne.co.uk/desolderpix.htm
+http://store.curiousinventor.com/guides/Surface_Mount_Soldering
+
+-> Electronics
+http://www.allaboutcircuits.com/
+
+-> Misc
+http://www.thomasnet.com/articles/
+http://store.curiousinventor.com/guides/
