@@ -1,0 +1,22 @@
+DE SIMON RAINVILLE:
+
+Salut Claudine, 
+
+Sans connaître exactement votre montage et ce que vous faites, voici les premiers commentaires qui me viennent (ça rappelle effectivement de bons souvenirs ! )
+
+- Je ne pense pas que l'humidité soit le problème. En fait, l'air lui même va geler à 4K, alors si votre système laisse entrer l'air (même sans humidité), ça peut former une "plug" de O2  (ce qui m'est déjà arrivé dans un dewar... probablement mon expérience la plus effrayante avec les liquides cryogéniques -- je te conterai ça un jour.)  Conclusion, l'air ne doit pas pouvoir entrer dans la ligne de transfert (i.e. se mélanger à l'He). Si c'est le cas, évidemment l'eau (humidité) va geler mais c'est un problème même avec de l'air parfaitement sec.
+
+- Des saletés coincées dans la ligne de transfert (collectées par exemple au fond d'un dewar) pourraient évidemment réduire la 
+capacité de transfert  mais si ça bloque complètement, ça devrait toujours rester bloqué. J'ai l'impression que votre problème est intermittent (et que sa fréquence t'inquiète). Pour déloger de telles saletés, j'essayerais de pousser de l'He (ou azote ou n'importe quoi quand tout est à la température de la pièce) sous pression en sens inverse.  Est-ce que ces problèmes ont commencé avec l'arrivée d'un nouveau Dewar ? ou se sont produit avec plusieurs Dewar différents ? Essayez de ne pas accoter le bout du tube dans le fond du Dewar.
+
+- Si le vide du tube de transfert n'était pas assez bon, ça prendrait plus de LHe pour faire le transfert qu'à l'habitude (en pratique plus de temps). S'il n'y a pas de vide du tout alors évidemment rien ne pourra passer. Mais encore une fois ça serait un problème permanent et non intermittent. Ça devrait être relativement facile de refaire le vide quand même et c'est jamais une mauvaise idée (mais je ne sais pas comment vous êtes organisés en pratique).
+
+
+Donc les saletés et le vide du tube de transfert ne collent pas vraiment à la nature intermittente de votre problème. Ils pourraient quand même empirer un autre problème (e.g. fuite d'air) alors ça vaut la peine de les considérer. Qu'est-ce qui se passe quand vous recommencez le transfert suite à un blocage (après avoir laissé le tube se réchauffer) ? Est-ce que ça fonctionne (ou pas) à tout coup ? 
+
+C'est pas mal tout ce qui me vient en ce moment. Je peux t'appeler si tu veux me décrire ce que vous faite et qu'on en jase plus en détails -- c'est parfois plus facile que d'écrire. 
+
+Bonne chance, 
+
+Simon 
+**************************************************************
